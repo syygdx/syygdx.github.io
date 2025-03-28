@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 魏子茗
+title: Ziming Wei
 
 # Name pronunciation (optional)
-name_pronunciation: Wei Zi Ming
+#name_pronunciation: Wei Zi Ming
 
 # Full name (for SEO)
 first_name: Ziming
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 博士研究生
+role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 北京航空航天大学--空间与地球科学学院
+  - name: School of Space and Earth Sciences, Beihang University,
     url: https://sse.buaa.edu.cn/
 
 # Social network links
@@ -33,56 +33,39 @@ profiles:
   - icon: at-symbol
     url: 'zimingwei1999@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
   - icon: brands/github
     url: https://github.com/syygdx
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-5211-1795
 
+
 interests:
-  - 磁层等离子体
-  - 环电流动力学
-  - 内磁层模拟
+  - Magnetospheric plasma
+  - Ring current dynamics
+  - Internal magnetosphere simulation
 
 education:
-  - area: PhD 地球物理学
-    institution: 北京航空航天大学
+  - area: PhD Geophysics
+    institution: Beihang University
     date_start: 2022-09-01
     date_end: 2027-06-29
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Participate in the construction of the STRIM ring current dynamics model, focusing on the effect of magnetic field curvature scattering on high-energy particles
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc 航空航天工程
-    institution: 国防科技大学
+  
+  - area: BEng Aerospace Engineering
+    institution: National University of Defense Technology
     date_start: 2018-09-01
     date_end: 2022-06-29
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      ......
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
