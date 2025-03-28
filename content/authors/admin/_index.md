@@ -55,7 +55,7 @@ education:
   - area: PhD 地球物理学
     institution: 北京航空航天大学
     date_start: 2022-09-01
-    date_end: 2027-06-31
+    date_end: 2027-06-29
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -75,7 +75,7 @@ education:
   - area: BSc 航空航天工程
     institution: 国防科技大学
     date_start: 2018-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-29
     summary: |
       GPA: 3.4/4.0
       
